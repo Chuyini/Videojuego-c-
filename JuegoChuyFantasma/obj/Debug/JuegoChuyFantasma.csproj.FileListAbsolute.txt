@@ -1,0 +1,16 @@
+C:\Users\MIRI\source\repos\JuegoChuyFantasma\JuegoChuyFantasma\bin\Debug\JuegoChuyFantasma.exe.config
+C:\Users\MIRI\source\repos\JuegoChuyFantasma\JuegoChuyFantasma\bin\Debug\JuegoChuyFantasma.exe
+C:\Users\MIRI\source\repos\JuegoChuyFantasma\JuegoChuyFantasma\bin\Debug\JuegoChuyFantasma.pdb
+C:\Users\MIRI\source\repos\JuegoChuyFantasma\JuegoChuyFantasma\obj\Debug\JuegoChuyFantasma.csproj.AssemblyReference.cache
+C:\Users\MIRI\source\repos\JuegoChuyFantasma\JuegoChuyFantasma\obj\Debug\JuegoChuyFantasma.csproj.SuggestedBindingRedirects.cache
+C:\Users\MIRI\source\repos\JuegoChuyFantasma\JuegoChuyFantasma\obj\Debug\JuegoChuyFantasma.Form1.resources
+C:\Users\MIRI\source\repos\JuegoChuyFantasma\JuegoChuyFantasma\obj\Debug\JuegoChuyFantasma.Properties.Resources.resources
+C:\Users\MIRI\source\repos\JuegoChuyFantasma\JuegoChuyFantasma\obj\Debug\JuegoChuyFantasma.csproj.GenerateResource.cache
+C:\Users\MIRI\source\repos\JuegoChuyFantasma\JuegoChuyFantasma\obj\Debug\JuegoChuyFantasma.csproj.CoreCompileInputs.cache
+C:\Users\MIRI\source\repos\JuegoChuyFantasma\JuegoChuyFantasma\obj\Debug\JuegoChuyFantasma.exe
+C:\Users\MIRI\source\repos\JuegoChuyFantasma\JuegoChuyFantasma\obj\Debug\JuegoChuyFantasma.pdb
+C:\Users\MIRI\source\repos\JuegoChuyFantasma\JuegoChuyFantasma\obj\Debug\JuegoChuyFantasma.Form2.resources
+C:\Users\MIRI\source\repos\JuegoChuyFantasma\JuegoChuyFantasma\obj\Debug\JuegoChuyFantasma.Form3.resources
+C:\Users\MIRI\source\repos\JuegoChuyFantasma\JuegoChuyFantasma\obj\Debug\JuegoChuyFantasma.Form4.resources
+C:\Users\MIRI\source\repos\JuegoChuyFantasma\JuegoChuyFantasma\obj\Debug\JuegoChuyFantasma.Form5.resources
+C:\Users\MIRI\source\repos\JuegoChuyFantasma\JuegoChuyFantasma\obj\Debug\JuegoChuyFantasma.Form6.resources
